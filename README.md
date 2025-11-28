@@ -1,16 +1,110 @@
-## Hi there 👋
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=800&height=80&lines=Zaidaan+Shiraz;Engineering+the+Future%2C+One+System+at+a+Time;AI+%7C+Full+Stack+%7C+Data+%7C+Systems+%7C+Hardware" alt="Typing SVG" />
+</p>
 
-<!--
-**zaidaanshiraz/zaidaanshiraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 **About Me**
+I am **Zaidaan**, a Data Science + Computer Science engineer who loves building  
+**AI systems, full-stack apps, analytics dashboards, hardware-optimized solutions, and real-world automation tools.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I operate at the intersection of  
+🧠 **intelligence** • 🛠️ **engineering** • 📊 **analytics** • 🤖 **automation** • 🎛️ **systems**.
+
+---
+
+### 🧠 **My Tech Stack**
+#### **Languages**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp" />
+</p>
+
+#### **Frameworks & Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,postgres,fastapi,git,github,linux,docker" />
+</p>
+
+#### **Data & Analytics**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow" />
+</p>
+
+#### **AI, CV & Generative Tools**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=opencv" />
+</p>
+
+🧩 *Also experienced with Stable Diffusion, ComfyUI, Flux .1 D, LangChain, Groq, LLM fine-tuning and custom dataset modelling.*
+
+---
+
+## 🏗️ **Current Projects**
+- 🧠 **Business-Literacy LLM** (MBA + BBA distilled into a private model)  
+- 🚨 **Real-Time Safety Vision AI** (PPE, ANPR, spill, fall, speed detection)  
+- 🔐 **Privacy-First Password Manager** (desktop + mobile)  
+- 🏎️ **Lamborghini V12 Engine Simulation**  
+- 📊 **Power BI Dashboards & Analytics Cases**  
+- 🎥 **Cinematic AI Content System** (Flux + ComfyUI)
+
+---
+
+## 🛠️ **My Unique Edge**
+✨ **Hybrid Engineer** — AI • Full-Stack • Data • Hardware • Systems  
+⚡ **Speed Learner** — quick execution, high adaptability  
+💡 **Creator Mindset** — I build tools that solve real problems  
+🏋️ **Athlete Discipline** — calisthenics mentality applied to tech  
+
+I improve systems, optimize workflows, automate processes, and create solutions that *scale*.
+
+---
+
+---
+
+## 📈 **GitHub Stats**
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔥 **Streak Stats**
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🧬 **Contribution Graph**
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## 🪄 **Fun Animated Badges**
+<p align="left">
+  <img src="https://img.shields.io/badge/Machine_Learning-Enthusiast-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Full_Stack-Developer-green?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Data_Analyst-orange?style=for-the-badge&logo=postgresql" />
+  <img src="https://img.shields.io/badge/Hardware-Troubleshooter-red?style=for-the-badge&logo=linux" />
+  <img src="https://img.shields.io/badge/AI⚡Automation-Passionate-purple?style=for-the-badge&logo=robot" />
+</p>
+
+---
+
+## 🎯 **Let’s Connect**
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45px"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://skillicons.dev/icons?i=gmail" width="45px"/>
+  </a>
+</p>
+
+---
+
+### ⭐ *If you like my work, don’t forget to star the repos!*
