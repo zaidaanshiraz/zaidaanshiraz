@@ -17,12 +17,12 @@ I operate at the intersection of
 ### 🧠 **My Tech Stack**
 #### **Languages**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,java" />
 </p>
 
 #### **Frameworks & Tools**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,postgres,fastapi,git,github,linux,docker" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,postgres,git,github,linux,docker" />
 </p>
 
 #### **Data & Analytics**
@@ -40,10 +40,8 @@ I operate at the intersection of
 ---
 
 ## 🏗️ **Current Projects**
-- 🧠 **Business-Literacy LLM** (MBA + BBA distilled into a private model)  
-- 🚨 **Real-Time Safety Vision AI** (PPE, ANPR, spill, fall, speed detection)  
+- 🚨 **Real-Time Safety Vision AI** (PPE, ANPR, spill, fall, speed detection)
 - 🔐 **Privacy-First Password Manager** (desktop + mobile)  
-- 🏎️ **Lamborghini V12 Engine Simulation**  
 - 📊 **Power BI Dashboards & Analytics Cases**  
 - 🎥 **Cinematic AI Content System** (Flux + ComfyUI)
 
@@ -75,14 +73,6 @@ I improve systems, optimize workflows, automate processes, and create solutions 
   <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
 </p>
 
----
-
-## 🧬 **Contribution Graph**
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true" />
-</p>
-
----
 
 ## 🪄 **Fun Animated Badges**
 <p align="left">
