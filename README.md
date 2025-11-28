@@ -87,7 +87,7 @@ I improve systems, optimize workflows, automate processes, and create solutions 
 
 ## 🎯 **Let’s Connect**
 <p align="left">
-  <a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/zaidaanshiraz/)">
+  <a href="https://linkedin.com/in/zaidaanshiraz">
     <img src="https://skillicons.dev/icons?i=linkedin" width="45px"/>
   </a>
   <a href="mailto:zaidaanshiraz8@gmail.com">
