@@ -62,7 +62,7 @@ I improve systems, optimize workflows, automate processes, and create solutions 
 ## 📈 **GitHub Stats**
 
 <p align="center">
- <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=zaidaanshiraz&show_icons=true&theme=tokyonight&hide_border=true" />
+ <img src="https://https://github-readme-stats-nu-ebon-69.vercel.app/api?username=zaidaanshiraz&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
