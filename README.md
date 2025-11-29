@@ -62,15 +62,15 @@ I improve systems, optimize workflows, automate processes, and create solutions 
 ## 📈 **GitHub Stats**
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zaidaanshiraz&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaidaanshiraz&layout=compact&theme=tokyonight&hide_border=true" />
+ <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=zaidaanshiraz&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 📈 **Top Languages**
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaidaanshiraz&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=zaidaanshiraz&layout=compact&theme=tokyonight&hide_border=true" />
+
 </p>
 
 ---
