@@ -68,11 +68,19 @@ I improve systems, optimize workflows, automate processes, and create solutions 
 
 ---
 
+## 📈 **Top Languages**
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaidaanshiraz&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
 ## 🔥 **Streak Stats**
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=zaidaanshiraz&theme=tokyonight&hide_border=true" />
 </p>
 
+---
 
 ## 🪄 **Fun Animated Badges**
 <p align="left">
